@@ -25,7 +25,7 @@ p {
     margin: auto
 }
 .container-1 {border:2px #ccc solid}
-.container-2 {padding: 70px}
+.container-2 {border:70px}
 .categorys {
     border: 2px #ccc solid; color: blanchedalmond;
 }
