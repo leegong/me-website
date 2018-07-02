@@ -1,9 +1,8 @@
 body {
     background:rgb(83, 80, 255);
     color: rgb(241, 241, 52);
-    font-family: times;
-    
-}
+    font-family: "Times New Roman", Times, serif;
+    }
 h1 {
     text-align: center
 }
