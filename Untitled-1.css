@@ -32,10 +32,7 @@ p {
 font-size:29px; color: blanchedalmond;  text-align: center
 }
 button{
-    height:50px; 
-    width:170px; 
-   
-    position:relative;
+       position:relative;
     top:50%; 
     left:50%;
 }
